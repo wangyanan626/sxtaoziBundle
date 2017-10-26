@@ -1,0 +1,269 @@
+ManifestFileVersion: 0
+CRC: 2478696935
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: textures/mahjongcard
+      Dependencies: {}
+    Info_1:
+      Name: panels/bindphoneui
+      Dependencies:
+        Dependency_0: ui/big
+        Dependency_1: ui/common
+        Dependency_2: ui/menu
+        Dependency_3: ui/invitecode
+        Dependency_4: fonts
+    Info_2:
+      Name: panels/createroomui
+      Dependencies:
+        Dependency_0: ui/big
+        Dependency_1: ui/common
+        Dependency_2: ui/joinroom
+        Dependency_3: ui/createroom
+    Info_3:
+      Name: panels/payui
+      Dependencies:
+        Dependency_0: ui/big
+        Dependency_1: ui/common
+        Dependency_2: ui/pay
+        Dependency_3: fonts
+    Info_4:
+      Name: panels/loginui
+      Dependencies:
+        Dependency_0: ui/big
+        Dependency_1: ui/common
+        Dependency_2: ui/login
+        Dependency_3: fonts
+    Info_5:
+      Name: panels/infoui
+      Dependencies:
+        Dependency_0: ui/common
+        Dependency_1: ui/hall
+        Dependency_2: ui/info
+        Dependency_3: fonts
+    Info_6:
+      Name: panels/shareui
+      Dependencies:
+        Dependency_0: ui/common
+        Dependency_1: ui/share
+        Dependency_2: fonts
+    Info_7:
+      Name: panels/jiaruhuiguanui
+      Dependencies:
+        Dependency_0: ui/big
+        Dependency_1: ui/common
+        Dependency_2: ui/joinroom
+        Dependency_3: ui/invitecode
+        Dependency_4: fonts
+    Info_8:
+      Name: panels/nettipui
+      Dependencies:
+        Dependency_0: ui/common
+        Dependency_1: fonts
+    Info_9:
+      Name: prefabs/mahjongobj
+      Dependencies:
+        Dependency_0: sprites/countdown
+        Dependency_1: ui/common
+        Dependency_2: ui/game
+        Dependency_3: shaders
+    Info_10:
+      Name: panels/menulistui
+      Dependencies:
+        Dependency_0: ui/menu
+    Info_11:
+      Name: panels/mahjongui
+      Dependencies:
+        Dependency_0: sprites/mahjongcard
+        Dependency_1: ui/big
+        Dependency_2: ui/common
+        Dependency_3: ui/game
+        Dependency_4: fonts
+    Info_12:
+      Name: panels/joinroomui
+      Dependencies:
+        Dependency_0: ui/common
+        Dependency_1: ui/joinroom
+    Info_13:
+      Name: panels/tipsboxui
+      Dependencies:
+        Dependency_0: ui/common
+        Dependency_1: fonts
+    Info_14:
+      Name: panels/historyui
+      Dependencies:
+        Dependency_0: ui/big
+        Dependency_1: ui/common
+        Dependency_2: ui/history
+        Dependency_3: fonts
+    Info_15:
+      Name: prefabs/luamanager
+      Dependencies: {}
+    Info_16:
+      Name: panels/xiaoxiui
+      Dependencies:
+        Dependency_0: ui/big
+        Dependency_1: ui/common
+        Dependency_2: ui/xiaoxi
+        Dependency_3: fonts
+    Info_17:
+      Name: panels/exitui
+      Dependencies:
+        Dependency_0: ui/common
+        Dependency_1: fonts
+    Info_18:
+      Name: panels/mainui
+      Dependencies:
+        Dependency_0: ui/big
+        Dependency_1: ui/common
+        Dependency_2: ui/menu
+        Dependency_3: ui/hall
+        Dependency_4: fonts
+    Info_19:
+      Name: panels/setui
+      Dependencies:
+        Dependency_0: ui/common
+        Dependency_1: ui/menu
+        Dependency_2: fonts
+    Info_20:
+      Name: panels/feedbackui
+      Dependencies:
+        Dependency_0: ui/big
+        Dependency_1: ui/common
+        Dependency_2: ui/menu
+        Dependency_3: fonts
+    Info_21:
+      Name: config
+      Dependencies: {}
+    Info_22:
+      Name: panels/ruleui
+      Dependencies:
+        Dependency_0: ui/big
+        Dependency_1: ui/common
+        Dependency_2: ui/joinroom
+        Dependency_3: ui/createroom
+        Dependency_4: fonts
+    Info_23:
+      Name: panels/chatui
+      Dependencies:
+        Dependency_0: ui/common
+        Dependency_1: ui/chat
+        Dependency_2: fonts
+    Info_24:
+      Name: panels/dissolveroomui
+      Dependencies:
+        Dependency_0: ui/common
+        Dependency_1: ui/joinroom
+        Dependency_2: ui/dissolveroom
+        Dependency_3: fonts
+    Info_25:
+      Name: panels/resultui
+      Dependencies:
+        Dependency_0: sprites/mahjongcard
+        Dependency_1: ui/common
+        Dependency_2: ui/result
+        Dependency_3: ui/game
+        Dependency_4: fonts
+    Info_26:
+      Name: sprites/mahjongcard
+      Dependencies: {}
+    Info_27:
+      Name: audio/effect
+      Dependencies: {}
+    Info_28:
+      Name: anim/emoji
+      Dependencies: {}
+    Info_29:
+      Name: panels/loadingui
+      Dependencies:
+        Dependency_0: ui/common
+        Dependency_1: fonts
+    Info_30:
+      Name: panels/gameinfoui
+      Dependencies:
+        Dependency_0: ui/common
+        Dependency_1: ui/hall
+        Dependency_2: ui/info
+        Dependency_3: fonts
+    Info_31:
+      Name: anim/gift
+      Dependencies: {}
+    Info_32:
+      Name: sprites/gifts
+      Dependencies: {}
+    Info_33:
+      Name: sprites/countdown
+      Dependencies: {}
+    Info_34:
+      Name: sprites/jushu
+      Dependencies: {}
+    Info_35:
+      Name: sprites/icon
+      Dependencies: {}
+    Info_36:
+      Name: ui/big
+      Dependencies: {}
+    Info_37:
+      Name: ui/common
+      Dependencies: {}
+    Info_38:
+      Name: ui/result
+      Dependencies: {}
+    Info_39:
+      Name: ui/menu
+      Dependencies: {}
+    Info_40:
+      Name: ui/game
+      Dependencies: {}
+    Info_41:
+      Name: ui/hall
+      Dependencies: {}
+    Info_42:
+      Name: ui/joinroom
+      Dependencies: {}
+    Info_43:
+      Name: ui/info
+      Dependencies: {}
+    Info_44:
+      Name: ui/chat
+      Dependencies: {}
+    Info_45:
+      Name: ui/createroom
+      Dependencies: {}
+    Info_46:
+      Name: ui/dissolveroom
+      Dependencies: {}
+    Info_47:
+      Name: ui/login
+      Dependencies: {}
+    Info_48:
+      Name: ui/share
+      Dependencies: {}
+    Info_49:
+      Name: ui/history
+      Dependencies: {}
+    Info_50:
+      Name: ui/xiaoxi
+      Dependencies: {}
+    Info_51:
+      Name: ui/pay
+      Dependencies: {}
+    Info_52:
+      Name: ui/invitecode
+      Dependencies: {}
+    Info_53:
+      Name: shaders
+      Dependencies: {}
+    Info_54:
+      Name: fonts
+      Dependencies: {}
+    Info_55:
+      Name: panels/loadinguilight
+      Dependencies:
+        Dependency_0: ui/common
+        Dependency_1: fonts
+    Info_56:
+      Name: panels/tipsboxuilight
+      Dependencies:
+        Dependency_0: ui/common
+        Dependency_1: fonts

@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 1589403608
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86a60d2c4d8eefc61ce550059e2450b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/UI/Game/game_btn_ting.png
+- Assets/App/AssetBundles/UI/Game/game_txt_likai.png
+- Assets/App/AssetBundles/UI/Game/game_txt_peng.png
+- Assets/App/AssetBundles/UI/Game/game_txt_zuihouyiju.png
+- Assets/App/AssetBundles/UI/Game/game_txt_dianpao.png
+- Assets/App/AssetBundles/UI/Game/game_icon_rule.png
+- Assets/App/AssetBundles/UI/Game/game_txt_gang.png
+- Assets/App/AssetBundles/UI/Game/game_txt_beikou.png
+- Assets/App/AssetBundles/UI/Game/game_txt_szhd.png
+- Assets/App/AssetBundles/UI/Game/game_txt_ting1.png
+- Assets/App/AssetBundles/UI/Game/game_txt_zimo1.png
+- Assets/App/AssetBundles/UI/Game/game_bg_wordframeright.png
+- Assets/App/AssetBundles/UI/Game/game_btn_arrow.png
+- Assets/App/AssetBundles/UI/Game/game_num_1.png
+- Assets/App/AssetBundles/UI/Game/game_bg_headInfo.png
+- Assets/App/AssetBundles/UI/Game/game_icon_volume2.png
+- Assets/App/AssetBundles/UI/Game/game_btn_chat.png
+- Assets/App/AssetBundles/UI/Game/game_icon_set.png
+- Assets/App/AssetBundles/UI/Game/game_icon_volumesay2.png
+- Assets/App/AssetBundles/UI/Game/game_txt_zimo.png
+- Assets/App/AssetBundles/UI/Game/game_icon_volume5.png
+- Assets/App/AssetBundles/UI/Game/game_icon_uparrow.png
+- Assets/App/AssetBundles/UI/Game/game_icon_volumesay3.png
+- Assets/App/AssetBundles/UI/Game/game_bg_frameting.png
+- Assets/App/AssetBundles/UI/Game/game_txt_jianzihu.png
+- Assets/App/AssetBundles/UI/Game/game_icon_zhuang.png
+- Assets/App/AssetBundles/UI/Game/game_icon_volume4.png
+- Assets/App/AssetBundles/UI/Game/game_bg_head.png
+- Assets/App/AssetBundles/UI/Game/game_btn_righttop.png
+- Assets/App/AssetBundles/UI/Game/game_bg_framegreen.png
+- Assets/App/AssetBundles/UI/Game/game_txt_hu.png
+- Assets/App/AssetBundles/UI/Game/game_txt_guo.png
+- Assets/App/AssetBundles/UI/Game/game_txt_kou.png
+- Assets/App/AssetBundles/UI/Game/game_icon_volume3.png
+- Assets/App/AssetBundles/UI/Game/game_icon_san.png
+- Assets/App/AssetBundles/UI/Game/game_txt_beihu.png
+- Assets/App/AssetBundles/UI/Game/game_icon_voice.png
+- Assets/App/AssetBundles/UI/Game/game_num_0.png
+- Assets/App/AssetBundles/UI/Game/game_txt_dianpao1.png
+- Assets/App/AssetBundles/UI/Game/game_icon_jin.png
+- Assets/App/AssetBundles/UI/Game/game_icon_volumesay1.png
+- Assets/App/AssetBundles/UI/Game/game_txt_kou1.png
+- Assets/App/AssetBundles/UI/Game/game_txt_hupai.png
+- Assets/App/AssetBundles/UI/Game/game_bg_voice.png
+- Assets/App/AssetBundles/UI/Game/game_bg_framebg.png
+- Assets/App/AssetBundles/UI/Game/game_txt_fangfen.png
+- Assets/App/AssetBundles/UI/Game/game_icon_volume1.png
+- Assets/App/AssetBundles/UI/Game/game_bg_framehaozi.png
+- Assets/App/AssetBundles/UI/Game/game_txt_ting.png
+- Assets/App/AssetBundles/UI/Game/game_txt_zimo2.png
+- Assets/App/AssetBundles/UI/Game/game_bg_wordframeleft.png
+- Assets/App/AssetBundles/UI/Game/game_txt_huangzhuang.png
+- Assets/App/AssetBundles/UI/Game/game_image_jiantou.png
+- Assets/App/AssetBundles/UI/Game/game_bg_line.png
+- Assets/App/AssetBundles/UI/Game/game_txt_zhunbei.png
+- Assets/App/AssetBundles/UI/Game/game_bg_frameroll.png
+- Assets/App/AssetBundles/UI/Game/game_bg_guangquan.png
+- Assets/App/AssetBundles/UI/Game/game_txt_diju.png
+- Assets/App/AssetBundles/UI/Game/game_icon_haozi.png
+- Assets/App/AssetBundles/UI/Game/game_bg_framedianliang.png
+- Assets/App/AssetBundles/UI/Game/game_txt_baopai.png
+- Assets/App/AssetBundles/UI/Game/game_icon_exit.png
+- Assets/App/AssetBundles/UI/Game/game_bg_framepai.png
+- Assets/App/AssetBundles/UI/Game/game_txt_baopai1.png
+- Assets/App/AssetBundles/UI/Game/game_btn_yuyin.png
+- Assets/App/AssetBundles/UI/Game/game_txt_gangfen1.png
+- Assets/App/AssetBundles/UI/Game/game_icon_cancle.png
+- Assets/App/AssetBundles/UI/Game/game_txt_beizimo.png
+Dependencies: []

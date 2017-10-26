@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2923606639
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 546be340bb06bdf82a8d1b3608e7b55d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/UI/login/login_btn_yklogin.png
+- Assets/App/AssetBundles/UI/login/login_text_dlyx.png
+- Assets/App/AssetBundles/UI/login/login_text_yhxy.png
+- Assets/App/AssetBundles/UI/login/login_bg.png
+- Assets/App/AssetBundles/UI/login/login_icon_gou.png
+- Assets/App/AssetBundles/UI/login/login_text_xy.png
+- Assets/App/AssetBundles/UI/login/login_btn_wxlogin.png
+- Assets/App/AssetBundles/UI/login/login_frame_gou.png
+Dependencies: []

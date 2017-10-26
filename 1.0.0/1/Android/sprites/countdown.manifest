@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3021019996
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cca92a31cf2c95800cf53c458642cec6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/Sprites/CountDown/1.png
+- Assets/App/AssetBundles/Sprites/CountDown/7.png
+- Assets/App/AssetBundles/Sprites/CountDown/6.png
+- Assets/App/AssetBundles/Sprites/CountDown/0.png
+- Assets/App/AssetBundles/Sprites/CountDown/9.png
+- Assets/App/AssetBundles/Sprites/CountDown/5.png
+- Assets/App/AssetBundles/Sprites/CountDown/2.png
+- Assets/App/AssetBundles/Sprites/CountDown/4.png
+- Assets/App/AssetBundles/Sprites/CountDown/3.png
+- Assets/App/AssetBundles/Sprites/CountDown/8.png
+Dependencies: []

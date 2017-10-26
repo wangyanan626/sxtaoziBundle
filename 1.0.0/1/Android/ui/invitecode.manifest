@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2440927330
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 084c98f6d18ec6b21cff1a9484766261
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/UI/InviteCode/text_jiaruhuiguan2.png
+- Assets/App/AssetBundles/UI/InviteCode/invitecode_frame_jiaru.png
+- Assets/App/AssetBundles/UI/InviteCode/text_jiaruhuiguan1.png
+- Assets/App/AssetBundles/UI/InviteCode/text_jiaruhuiguan.png
+- Assets/App/AssetBundles/UI/InviteCode/invitecode_btn_bind.png
+- Assets/App/AssetBundles/UI/InviteCode/invitecode_frame_jiao.png
+- Assets/App/AssetBundles/UI/InviteCode/invitecode_btn_binddown.png
+Dependencies: []

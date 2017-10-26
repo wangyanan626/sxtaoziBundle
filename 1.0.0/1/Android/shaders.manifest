@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3882817125
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3ece56f9a8e653807034ed0a0d3eaac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02bb1a4f827934bc9f9224f61c0f3e4c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/Shaders/Shader_MahjongPrefbs.shader
+- Assets/App/AssetBundles/Shaders/Shader_OpaqueHightLight.shader
+- Assets/App/AssetBundles/Shaders/UIGray_Material.mat
+- Assets/App/AssetBundles/Shaders/MahjongSpecular.shader
+- Assets/App/AssetBundles/Shaders/Shader_Opaque+emis.shader
+- Assets/App/AssetBundles/Shaders/Shader_Mahjong_Index.shader
+- Assets/App/AssetBundles/Shaders/Shader_Transparent.shader
+- Assets/App/AssetBundles/Shaders/UIGray_Shader.shader
+- Assets/App/AssetBundles/Shaders/Shader_Opaque.shader
+- Assets/App/AssetBundles/Shaders/new.shader
+Dependencies: []

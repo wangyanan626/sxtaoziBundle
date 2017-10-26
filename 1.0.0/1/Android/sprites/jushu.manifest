@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1537019060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7362b49aa81668dae15fc8b4fb652eef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/Sprites/JuShu/6.png
+- Assets/App/AssetBundles/Sprites/JuShu/5.png
+- Assets/App/AssetBundles/Sprites/JuShu/8.png
+- Assets/App/AssetBundles/Sprites/JuShu/0.png
+- Assets/App/AssetBundles/Sprites/JuShu/9.png
+- Assets/App/AssetBundles/Sprites/JuShu/3.png
+- Assets/App/AssetBundles/Sprites/JuShu/2.png
+- Assets/App/AssetBundles/Sprites/JuShu/4.png
+- Assets/App/AssetBundles/Sprites/JuShu/7.png
+- Assets/App/AssetBundles/Sprites/JuShu/1.png
+Dependencies: []

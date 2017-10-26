@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 72090706
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 980974caa216be0b989a6c1ef8ebf7c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/UI/Common/common_btn_GoToHall.png
+- Assets/App/AssetBundles/UI/Common/common_btn_sure.png
+- Assets/App/AssetBundles/UI/Common/common_image_progressbg.png
+- Assets/App/AssetBundles/UI/Common/common_frame_top.png
+- Assets/App/AssetBundles/UI/Common/common_icon_2.png
+- Assets/App/AssetBundles/UI/Common/common_bg_1.png
+- Assets/App/AssetBundles/UI/Common/common_frame_bottom.png
+- Assets/App/AssetBundles/UI/Common/common_bg_10.png
+- Assets/App/AssetBundles/UI/Common/common_btn_sureyellow.png
+- Assets/App/AssetBundles/UI/Common/common_bg_6.png
+- Assets/App/AssetBundles/UI/Common/common_bg_2.png
+- Assets/App/AssetBundles/UI/Common/common_text_tishi.png
+- Assets/App/AssetBundles/UI/Common/common_bg_5.png
+- Assets/App/AssetBundles/UI/Common/common_bg_3.png
+- Assets/App/AssetBundles/UI/Common/common_bg_8.png
+- Assets/App/AssetBundles/UI/Common/common_btn_close.png
+- Assets/App/AssetBundles/UI/Common/common_btn_back.png
+- Assets/App/AssetBundles/UI/Common/common_image_titlered.png
+- Assets/App/AssetBundles/UI/Common/common_bg_7.png
+- Assets/App/AssetBundles/UI/Common/common_image_progress.png
+- Assets/App/AssetBundles/UI/Common/common_bg_4.png
+- Assets/App/AssetBundles/UI/Common/common_image_progress1bg.png
+- Assets/App/AssetBundles/UI/Common/common_btn_binded.png
+- Assets/App/AssetBundles/UI/Common/common_bg_12.png
+- Assets/App/AssetBundles/UI/Common/common_image_progress1.png
+- Assets/App/AssetBundles/UI/Common/common_bg_11.png
+- Assets/App/AssetBundles/UI/Common/common_bg_0.png
+- Assets/App/AssetBundles/UI/Common/common_btn_update.png
+- Assets/App/AssetBundles/UI/Common/common_btn_cancle.png
+- Assets/App/AssetBundles/UI/Common/common_icon_1.png
+- Assets/App/AssetBundles/UI/Common/common_image_titleyellow.png
+Dependencies: []

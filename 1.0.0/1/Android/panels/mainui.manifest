@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 3092237858
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c38959ceb812fcefe289be7c1131631
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6793c87e9a64dda3f6427942362cf7a1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b9173d38911503c4a9a371b0760bdd15, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/Panels/MainUI.prefab
+Dependencies:
+- H:/ProjectTaozi/taozimajiang3d/client_tz/Assets/StreamingAssets/Android/ui/big
+- H:/ProjectTaozi/taozimajiang3d/client_tz/Assets/StreamingAssets/Android/ui/common
+- H:/ProjectTaozi/taozimajiang3d/client_tz/Assets/StreamingAssets/Android/ui/menu
+- H:/ProjectTaozi/taozimajiang3d/client_tz/Assets/StreamingAssets/Android/ui/hall
+- H:/ProjectTaozi/taozimajiang3d/client_tz/Assets/StreamingAssets/Android/fonts

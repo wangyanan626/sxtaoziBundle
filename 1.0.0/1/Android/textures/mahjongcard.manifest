@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 895459379
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d43791c00d387e854c44a72e5ffec00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/Textures/MahjongCard/5.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/24.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/40.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/16.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/15.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/32.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/25.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/1.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/26.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/6.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/7.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/38.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/30.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/37.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/39.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/8.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/33.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/18.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/0.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/12.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/34.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/29.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/13.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/14.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/11.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/41.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/22.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/36.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/17.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/23.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/20.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/3.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/9.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/10.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/31.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/27.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/4.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/35.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/28.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/21.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/2.jpg
+- Assets/App/AssetBundles/Textures/MahjongCard/19.jpg
+Dependencies: []

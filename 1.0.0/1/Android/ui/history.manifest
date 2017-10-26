@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 312458178
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95e47ec11cb30aa658090a251ff273af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/UI/History/history_btn_xiangqing.png
+- Assets/App/AssetBundles/UI/History/history_btn_huifang.png
+- Assets/App/AssetBundles/UI/History/history_bg_line.png
+- Assets/App/AssetBundles/UI/History/history_text_zhanji.png
+- Assets/App/AssetBundles/UI/History/history_bg_zhanji.png
+- Assets/App/AssetBundles/UI/History/history_btn_share.png
+Dependencies: []

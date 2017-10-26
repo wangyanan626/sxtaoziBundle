@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 4199865276
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 278304183304352994df4ad55905c3ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/UI/hall/hall_icon_notOpen.png
+- Assets/App/AssetBundles/UI/hall/hall_frame_roomtitle.png
+- Assets/App/AssetBundles/UI/hall/hall_text_fjliebiao.png
+- Assets/App/AssetBundles/UI/hall/hall_btn_topUp.png
+- Assets/App/AssetBundles/UI/hall/hall_text_rank.png
+- Assets/App/AssetBundles/UI/hall/hall_frame_head.png
+- Assets/App/AssetBundles/UI/hall/hall_icon_rankbg.png
+- Assets/App/AssetBundles/UI/hall/hall_frame_diamond.png
+- Assets/App/AssetBundles/UI/hall/hall_icon_female.png
+- Assets/App/AssetBundles/UI/hall/hall_icon_laba.png
+- Assets/App/AssetBundles/UI/hall/hall_bg_roomList.png
+- Assets/App/AssetBundles/UI/hall/hall_text_dayingjia.png
+- Assets/App/AssetBundles/UI/hall/hall_btn_leftDown.png
+- Assets/App/AssetBundles/UI/hall/hall_icon_male.png
+- Assets/App/AssetBundles/UI/hall/hall_num_chenghao.png
+- Assets/App/AssetBundles/UI/hall/hall_btn_topDown.png
+- Assets/App/AssetBundles/UI/hall/hall_bg_rank.png
+- Assets/App/AssetBundles/UI/hall/hall_btn_leftUp.png
+- Assets/App/AssetBundles/UI/hall/hall_btn_recharge.png
+- Assets/App/AssetBundles/UI/hall/hall_btn_notice.png
+- Assets/App/AssetBundles/UI/hall/hall_icon_diamond.png
+- Assets/App/AssetBundles/UI/hall/hall_icon_second.png
+- Assets/App/AssetBundles/UI/hall/hall_btn_history.png
+- Assets/App/AssetBundles/UI/hall/hall_btn_invite.png
+- Assets/App/AssetBundles/UI/hall/hall_btn_share.png
+- Assets/App/AssetBundles/UI/hall/hall_btn_buyDiamond.png
+- Assets/App/AssetBundles/UI/hall/hall_icon_first.png
+- Assets/App/AssetBundles/UI/hall/hall_text_tuhao.png
+- Assets/App/AssetBundles/UI/hall/hall_btn_menu.png
+- Assets/App/AssetBundles/UI/hall/hall_frame_item.png
+- Assets/App/AssetBundles/UI/hall/hall_icon_room.png
+- Assets/App/AssetBundles/UI/hall/hall_icon_third.png
+- Assets/App/AssetBundles/UI/hall/hall_btn_yaoqing.png
+Dependencies: []

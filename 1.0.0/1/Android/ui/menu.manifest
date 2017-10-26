@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 879066277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1ba8c9a1447584e24262548a45640ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/UI/Menu/menu_text_bangding1.png
+- Assets/App/AssetBundles/UI/Menu/menu_text_bangding.png
+- Assets/App/AssetBundles/UI/Menu/menu_btn_fankui.png
+- Assets/App/AssetBundles/UI/Menu/menu_text_set.png
+- Assets/App/AssetBundles/UI/Menu/menu_btn_commit.png
+- Assets/App/AssetBundles/UI/Menu/menu_btn_bind.png
+- Assets/App/AssetBundles/UI/Menu/menu_btn_rule.png
+- Assets/App/AssetBundles/UI/Menu/menu_btn_handle.png
+- Assets/App/AssetBundles/UI/Menu/menu_btn_getcode.png
+- Assets/App/AssetBundles/UI/Menu/menu_btn_openVoice.png
+- Assets/App/AssetBundles/UI/Menu/menu_text_wentifankui.png
+- Assets/App/AssetBundles/UI/Menu/menu_btn_closeVoice.png
+- Assets/App/AssetBundles/UI/Menu/menu_btn_exit.png
+- Assets/App/AssetBundles/UI/Menu/menu_btn_set.png
+- Assets/App/AssetBundles/UI/Menu/menu_bg_word.png
+- Assets/App/AssetBundles/UI/Menu/menu_btn_changeAccout.png
+Dependencies: []

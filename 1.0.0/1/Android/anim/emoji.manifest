@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4104543972
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce36a87f196433d8a6b7202510151511
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b365ca709391965d32fef983c83492bd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/Anim/Emoji/Jiong.controller
+- Assets/App/AssetBundles/Anim/Emoji/ZhuaKuang.controller
+- Assets/App/AssetBundles/Anim/Emoji/Angry.controller
+- Assets/App/AssetBundles/Anim/Emoji/Knife.controller
+- Assets/App/AssetBundles/Anim/Emoji/Cry.controller
+- Assets/App/AssetBundles/Anim/Emoji/Zan.controller
+- Assets/App/AssetBundles/Anim/Emoji/TouXiang.controller
+- Assets/App/AssetBundles/Anim/Emoji/KeLian.controller
+- Assets/App/AssetBundles/Anim/Emoji/Pray.controller
+- Assets/App/AssetBundles/Anim/Emoji/Sleep.controller
+- Assets/App/AssetBundles/Anim/Emoji/JiaYou.controller
+- Assets/App/AssetBundles/Anim/Emoji/Happy.controller
+Dependencies: []

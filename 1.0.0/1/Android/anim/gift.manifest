@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1806554414
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e4387eb6564268eb34636643b14d1db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b365ca709391965d32fef983c83492bd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/Anim/Gift/anim6.controller
+- Assets/App/AssetBundles/Anim/Gift/anim7.controller
+- Assets/App/AssetBundles/Anim/Gift/anim5.controller
+- Assets/App/AssetBundles/Anim/Gift/anim3.controller
+- Assets/App/AssetBundles/Anim/Gift/anim1.controller
+- Assets/App/AssetBundles/Anim/Gift/anim2.controller
+- Assets/App/AssetBundles/Anim/Gift/anim4.controller
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 4014036403
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ea7fc9d5f54aad6f44f416660edf5c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/UI/big/big_btn_createRoom.png
+- Assets/App/AssetBundles/UI/big/hall_frame_notice.png
+- Assets/App/AssetBundles/UI/big/big_btn_gamenext.png
+- Assets/App/AssetBundles/UI/big/big_btn_wecgatfriend.png
+- Assets/App/AssetBundles/UI/big/pay_bg.png
+- Assets/App/AssetBundles/UI/big/big_btn_ruzuoleft.png
+- Assets/App/AssetBundles/UI/big/img_bind.png
+- Assets/App/AssetBundles/UI/big/img_zhuzi0.png
+- Assets/App/AssetBundles/UI/big/invitecode_img_chengzhao.png
+- Assets/App/AssetBundles/UI/big/login_logo.png
+- Assets/App/AssetBundles/UI/big/btn_joinRoom.png
+- Assets/App/AssetBundles/UI/big/img_zhuzi1.png
+- Assets/App/AssetBundles/UI/big/img_biaotou.png
+- Assets/App/AssetBundles/UI/big/img_logo.png
+- Assets/App/AssetBundles/UI/big/big_bg_2.png
+- Assets/App/AssetBundles/UI/big/big_bg_1.png
+- Assets/App/AssetBundles/UI/big/btn_match.png
+- Assets/App/AssetBundles/UI/big/big_btn_ruzuodown.png
+- Assets/App/AssetBundles/UI/big/big_btn_ruzuoright.png
+- Assets/App/AssetBundles/UI/big/big_btn_showresult.png
+- Assets/App/AssetBundles/UI/big/text_yaoqing.png
+- Assets/App/AssetBundles/UI/big/big_btn_ruzuoup.png
+Dependencies: []

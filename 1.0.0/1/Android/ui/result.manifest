@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2739666212
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50e07b47b17738df03c26936a77d870c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/UI/Result/result_btn_wxshare.png
+- Assets/App/AssetBundles/UI/Result/result_img_tuhao.png
+- Assets/App/AssetBundles/UI/Result/result_image_tip.png
+- Assets/App/AssetBundles/UI/Result/result_icon_id.png
+- Assets/App/AssetBundles/UI/Result/result_bg.png
+- Assets/App/AssetBundles/UI/Result/result_text_title.png
+- Assets/App/AssetBundles/UI/Result/result_img_dayingjia.png
+- Assets/App/AssetBundles/UI/Result/result_frame_fangxiang.png
+- Assets/App/AssetBundles/UI/Result/result_text_fangjianjiesuan.png
+Dependencies: []

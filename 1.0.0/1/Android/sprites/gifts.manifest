@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 4123140170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b0ff5edd1a923f9f1009ae466872f31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/Sprites/Gifts/Gift4.png
+- Assets/App/AssetBundles/Sprites/Gifts/Gift7.png
+- Assets/App/AssetBundles/Sprites/Gifts/Gift5.png
+- Assets/App/AssetBundles/Sprites/Gifts/Gift1.png
+- Assets/App/AssetBundles/Sprites/Gifts/Gift2.png
+- Assets/App/AssetBundles/Sprites/Gifts/Gift3.png
+- Assets/App/AssetBundles/Sprites/Gifts/Gift6.png
+Dependencies: []

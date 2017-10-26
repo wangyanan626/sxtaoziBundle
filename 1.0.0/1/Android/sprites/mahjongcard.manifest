@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2884552796
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a18f58b8dc404431d9626dc91d38009
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/Sprites/MahjongCard/3.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/40.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/5.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/30.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/empty.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/26.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/34.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/14.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/29.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/23.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/11.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/22.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/12.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/21.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/25.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/31.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/32.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/9.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/7.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/4.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/39.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/35.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/17.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/1.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/36.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/24.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/8.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/15.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/10.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/0.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/16.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/18.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/28.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/6.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/13.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/37.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/27.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/41.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/2.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/38.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/19.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/20.png
+- Assets/App/AssetBundles/Sprites/MahjongCard/33.png
+Dependencies: []

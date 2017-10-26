@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1890657116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0446ee2ba1724f609fd80133727e0676
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/UI/Info/info_bg.png
+- Assets/App/AssetBundles/UI/Info/info_icon_ip.png
+- Assets/App/AssetBundles/UI/Info/info_icon_1jino.png
+- Assets/App/AssetBundles/UI/Info/info_icon_5xihongshino.png
+- Assets/App/AssetBundles/UI/Info/info_icon_3shui.png
+- Assets/App/AssetBundles/UI/Info/info_icon_1ji.png
+- Assets/App/AssetBundles/UI/Info/info_icon_star.png
+- Assets/App/AssetBundles/UI/Info/info_icon_2zha.png
+- Assets/App/AssetBundles/UI/Info/info_icon_id.png
+- Assets/App/AssetBundles/UI/Info/info_icon_2zhano.png
+- Assets/App/AssetBundles/UI/Info/info_icon_6shou.png
+- Assets/App/AssetBundles/UI/Info/info_icon_5xihongshi.png
+- Assets/App/AssetBundles/UI/Info/info_icon_pos.png
+- Assets/App/AssetBundles/UI/Info/info_icon_7bei.png
+- Assets/App/AssetBundles/UI/Info/info_icon_starbg.png
+- Assets/App/AssetBundles/UI/Info/info_icon_6shouno.png
+- Assets/App/AssetBundles/UI/Info/info_icon_ju.png
+- Assets/App/AssetBundles/UI/Info/info_icon_join.png
+- Assets/App/AssetBundles/UI/Info/info_icon_7beino.png
+- Assets/App/AssetBundles/UI/Info/info_icon_3shuino.png
+- Assets/App/AssetBundles/UI/Info/info_icon_4hua.png
+- Assets/App/AssetBundles/UI/Info/info_icon_4huano.png
+Dependencies: []

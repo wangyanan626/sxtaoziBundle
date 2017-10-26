@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2342932301
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 393345094dd3a6da1b165f2f8af49aa7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/UI/Chat/chat_icon_10.png
+- Assets/App/AssetBundles/UI/Chat/chat_icon_9.png
+- Assets/App/AssetBundles/UI/Chat/chat_btn_send.png
+- Assets/App/AssetBundles/UI/Chat/chat_icon_6.png
+- Assets/App/AssetBundles/UI/Chat/chat_txt_quick.png
+- Assets/App/AssetBundles/UI/Chat/chat_icon_11.png
+- Assets/App/AssetBundles/UI/Chat/chat_txt_bq.png
+- Assets/App/AssetBundles/UI/Chat/chat_icon_7.png
+- Assets/App/AssetBundles/UI/Chat/chat_icon_12.png
+- Assets/App/AssetBundles/UI/Chat/chat_icon_3.png
+- Assets/App/AssetBundles/UI/Chat/chat_icon_8.png
+- Assets/App/AssetBundles/UI/Chat/chat_bg_quikText.png
+- Assets/App/AssetBundles/UI/Chat/chat_icon_4.png
+- Assets/App/AssetBundles/UI/Chat/chat_icon_5.png
+- Assets/App/AssetBundles/UI/Chat/chat_bg_input.png
+- Assets/App/AssetBundles/UI/Chat/chat_icon_1.png
+- Assets/App/AssetBundles/UI/Chat/chat_icon_2.png
+- Assets/App/AssetBundles/UI/Chat/chat_btn_down.png
+- Assets/App/AssetBundles/UI/Chat/chat_btn_up.png
+Dependencies: []

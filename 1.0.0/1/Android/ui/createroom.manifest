@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3669463342
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b08901e0fb760829203611762b6e6cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_df.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_tysl1.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_btn_toleft.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_btn_choose.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_yqmj.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_tdh1.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_btn_toright.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_lfymp1.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_tdh.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_hp.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_bg_lowbg.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_bg_frameright.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_bg_type2.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_ff.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_js.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_yqmj1.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_fanfan.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_gaoji.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_ms.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_tysl.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_btn_2.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_fsxy1.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_fsxy.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_jzmj.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_btn_help.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_btn_sure.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_sxmj.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_bg_type1.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_lfymp.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_kdd.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_jinshu.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_yctj.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_dtgsj1.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_btn_choose1.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_lfysz.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_wf.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_yctj1.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_bg_line.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_jzmj1.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_dtgsj.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_kdd1.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_txt_lfysz1.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_bg_frameleft.png
+- Assets/App/AssetBundles/UI/createRoom/createroom_btn_1.png
+Dependencies: []

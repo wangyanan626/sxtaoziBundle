@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2308518131
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 242f64f2e1764b7f272b05d17a1ba7cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/UI/Xiaoxi/xiaoxi_btn_down.png
+- Assets/App/AssetBundles/UI/Xiaoxi/xiaoxi_text_xiaoxi.png
+- Assets/App/AssetBundles/UI/Xiaoxi/xiaoxi_text_update1.png
+- Assets/App/AssetBundles/UI/Xiaoxi/xiaoxi_bg_right1.png
+- Assets/App/AssetBundles/UI/Xiaoxi/xiaoxi_btn_up.png
+- Assets/App/AssetBundles/UI/Xiaoxi/xiaoxi_text_update.png
+Dependencies: []

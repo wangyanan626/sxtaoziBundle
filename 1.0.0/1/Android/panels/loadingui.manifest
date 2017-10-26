@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 801780003
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9cbdd4d046bf708940adc36b824653bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 60b242e13f7b4fe7e262f02fe060cc2f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b9173d38911503c4a9a371b0760bdd15, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/AssetBundles/Panels/LoadingUI.prefab
+Dependencies:
+- H:/ProjectTaozi/taozimajiang3d/client_tz/Assets/StreamingAssets/Android/ui/common
+- H:/ProjectTaozi/taozimajiang3d/client_tz/Assets/StreamingAssets/Android/fonts
